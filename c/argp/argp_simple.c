@@ -1,6 +1,5 @@
 /*******************************************************************/
 /*  Simple program using argp to parse the command line arguments  */
-/*  Command Syntax: ./argp_simple -g m/f -a 26 Tom                 */
 /*******************************************************************/
 
 # include <stdio.h>
